@@ -1,16 +1,28 @@
 {
-  "projects": [
+  "tasks": [
     {
       "id": 1,
       "title": "Create new homepage banner",
       "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum repellat quaerat, officiis incidunt facilis aliquam temporibus assumenda? Quos fuga repellendus minus ad laborum at nulla maxime earum tempora! Velit, accusantium.",
-      "complete": false
+      "completed": true
     },
     {
       "id": 2,
       "title": "Make marketing email",
       "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum repellat quaerat, officiis incidunt facilis aliquam temporibus assumenda? Quos fuga repellendus minus ad laborum at nulla maxime earum tempora! Velit, accusantium.",
-      "complete": true
+      "completed": false
+    },
+    {
+      "title": "Make a completly new website",
+      "details": "This is a completely new website builder",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Yet another task to complete",
+      "details": "Do remember to complete this gravely important task",
+      "completed": true,
+      "id": 4
     }
   ]
 }
